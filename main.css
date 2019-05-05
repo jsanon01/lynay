@@ -28,6 +28,7 @@ p::first-letter {
   
 }
 
+
 .flex-container {
   display: flex;
   flex-wrap: wrap;
@@ -53,6 +54,10 @@ section img {
   max-width: 200px;
   margin-bottom: .5em;
 }
+/*.w3-panel {
+  text-align: center;
+  color: blue;
+}*/
 
 img {
   height: 50%;
@@ -88,6 +93,10 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+  color: blue;
+}
+
 /* Change color on hover */
 .topnav a:hover {
   background-color: #ddd;
@@ -97,7 +106,7 @@ h1 {
 .column {
   float: left;
   width: 33.33%;
-  padding: 15px;
+  padding: 55px;
 }
 
 /* Clear floats after the columns */
